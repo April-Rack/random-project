@@ -1,8 +1,7 @@
-# How to assemble?
-
-You need Yasm, GCC, Make & git<br>
-if you have all four, you're in luck because all you gotta do is run:<br>
+# How 2 Assemble<br>
+I set up makefile to do just that.<br>
+run the command, while cd'd into the clone:<br>
 ```
 $ make
 ```
-and you're all set!<br>
+if that doesn't work you're screwed.<br>
